@@ -27,3 +27,7 @@
   height: 50px;
   border-radius: 50%;
 }
+.header nav span {
+  font-weight: bold;
+  padding-right: 50px;
+}
